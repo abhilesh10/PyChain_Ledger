@@ -15,37 +15,6 @@ You’ll make the following updates to the provided Python file for this assignm
 4. Test the PyChain Ledger by Storing Records.
 
 ---
-## Files
-
-Download the following files to help you get started:
-
-[Module 18 Homework files](Starter_Code/pychain.py)
-
----
-
-## Explanation
-
-![alt=""](Block.png)
-
-![alt=""](valid.png)
-
-![alt=""](chain.png)
-
----
-
-## Instructions
-
-Open the [`pychain.py` file](Starter_Code/pychain.py) included in the Homework's `Starter_code` folder. You’ll use this file to complete the steps for this assignment. Notice that the `PyChain` ledger that you built throughout this unit already includes the functionality to create blocks, perform the proof of work consensus protocol, and validate blocks in the chain.
-
-The steps for this assignment are divided into the following sections:
-
-1. Create a Record Data Class
-
-2. Modify the Existing Block Data Class to Store Record Data
-
-3. Add Relevant User Inputs to the Streamlit Interface
-
-4. Test the PyChain Ledger by Storing Records
 
 ### Step 1: Create a Record Data Class
 
@@ -100,14 +69,11 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
 
 ---
-## Submission
 
-You’ll upload the Python file for this assignment to your GitHub repository.
+## Conclusion
 
-* Make sure to update the `README.md` file to include an explanation of the Steamlit application, a screenshot or video of your deployed Streamlit application, and any other information that’s needed to interact with your project.
+![alt=""](Block.png)
 
-* Submit the link to your GitHub project to Bootcamp Spot.
+![alt=""](valid.png)
 
----
-
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+![alt=""](chain.png)
